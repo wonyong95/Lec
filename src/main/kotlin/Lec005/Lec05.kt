@@ -7,3 +7,6 @@ fun validateScoreIsNotNegative(score: Int){
 
 
 }
+fun check(){
+    
+}

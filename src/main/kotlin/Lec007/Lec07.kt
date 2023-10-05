@@ -1,5 +1,5 @@
 package Lec007
 
 fun main(){
-    bziedmbo odl
+    bziedmbo odld dd
 }
